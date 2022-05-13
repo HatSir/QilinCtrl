@@ -1,0 +1,54 @@
+Protel Design System Design Rule Check
+PCB File : E:\Projects\Project_Qilin\Hardware\PCB\ESP32_heat\1.47 LCD .PcbDoc
+Date     : 2022/5/5
+Time     : 22:32:12
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+   Violation between Clearance Constraint: (0.097mm < 0.152mm) Between Pad Free-8(19.789mm,0.016mm) on Multi-Layer And Track (18.09mm,-7.275mm)(18.09mm,6.925mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad Free-8(19.789mm,0.016mm) on Multi-Layer And Track (18.582mm,-7.303mm)(18.582mm,6.897mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (0.068mm < 0.152mm) Between Pad Free-8(-19.987mm,0.065mm) on Multi-Layer And Track (-18.318mm,-7.303mm)(-18.318mm,6.897mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad Free-8(-19.987mm,0.065mm) on Multi-Layer And Track (-18.81mm,-7.275mm)(-18.81mm,6.925mm) on Keep-Out Layer 
+Rule Violations :4
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.127mm) (Max=0.508mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-8(19.789mm,0.016mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-8(-19.987mm,0.065mm) on Multi-Layer Actual Hole Size = 3mm
+Rule Violations :2
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.102mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 6
+Waived Violations : 0
+Time Elapsed        : 00:00:01
