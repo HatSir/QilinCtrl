@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T03:38:42.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="J1nAKHij9QfmWDchDi5S" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T03:41:52.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="_32egiZ9JE68Kn-Ksvsc" version="24.2.3" type="github">
   <diagram name="第 1 页" id="Lzm0gGulSUZ9XCrWZZc3">
-    <mxGraphModel dx="1379" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2122" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CynAIN0-DemqZgO2HIYT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="80" width="800" height="750" as="geometry" />
+          <mxGeometry x="160" y="80" width="800" height="600" as="geometry" />
         </mxCell>
         <mxCell id="CynAIN0-DemqZgO2HIYT-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="174" y="370" width="766" height="133" as="geometry" />
@@ -75,6 +75,21 @@
         </mxCell>
         <mxCell id="CynAIN0-DemqZgO2HIYT-30" value="RTC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205.5" y="580" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-31" value="时间管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="409" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="210" width="766" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-33" value="FreeRtos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="242.25" width="70" height="68.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-34" value="UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="242.25" width="70" height="68.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-35" value="BCU软件架构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
