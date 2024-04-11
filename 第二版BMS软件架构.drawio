@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T03:43:07.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="8CUTHj71j2_g4uhLV--b" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T03:45:56.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="NSXR2Xst2hoH9iLQSrQD" version="24.2.3" type="github">
   <diagram name="第 1 页" id="Lzm0gGulSUZ9XCrWZZc3">
     <mxGraphModel dx="1724" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="CynAIN0-DemqZgO2HIYT-20" value="EPPROM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="764.5" y="580" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CynAIN0-DemqZgO2HIYT-21" value="BMU_Para" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CynAIN0-DemqZgO2HIYT-21" value="BCU_Para" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="844.5" y="580" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CynAIN0-DemqZgO2HIYT-24" value="故障管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
