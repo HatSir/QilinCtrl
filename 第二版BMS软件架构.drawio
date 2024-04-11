@@ -1,11 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T03:01:30.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="HLQAyPJJqIxpLS7iKoIe" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T03:38:42.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="J1nAKHij9QfmWDchDi5S" version="24.2.3" type="github">
   <diagram name="第 1 页" id="Lzm0gGulSUZ9XCrWZZc3">
     <mxGraphModel dx="1379" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CynAIN0-DemqZgO2HIYT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="80" width="800" height="600" as="geometry" />
+          <mxGeometry x="160" y="80" width="800" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="370" width="766" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="190" y="410" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CynAIN0-DemqZgO2HIYT-8">
+          <mxGeometry width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-3" value="SOX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CynAIN0-DemqZgO2HIYT-8">
+          <mxGeometry x="99.99999999999999" y="6.0344827586206895" width="39.99999999999999" height="18.10344827586207" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-5" value="SOC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CynAIN0-DemqZgO2HIYT-8">
+          <mxGeometry x="6.666666666666666" y="30.17241379310344" width="53.33333333333333" height="30.17241379310344" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-6" value="SOH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CynAIN0-DemqZgO2HIYT-8">
+          <mxGeometry x="93.33333333333333" y="30.17241379310344" width="53.33333333333333" height="30.17241379310344" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-7" value="SOE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CynAIN0-DemqZgO2HIYT-8">
+          <mxGeometry x="180" y="30.17241379310344" width="53.33333333333333" height="30.17241379310344" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="540" width="766" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-11" value="底层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-13" value="BQ79616" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284.5" y="580" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-14" value="INA229" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364.5" y="580" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-15" value="Relay" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="444.5" y="580" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-16" value="STM32-HAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="524.5" y="580" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-17" value="EMB1428" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="604.5" y="580" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-18" value="CAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="684.5" y="580" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-20" value="EPPROM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="764.5" y="580" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-21" value="BMU_Para" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="844.5" y="580" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-24" value="故障管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="410" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-25" value="均衡管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="410" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-26" value="充放电管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="629" y="410" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="719" y="379" width="121" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-28" value="算法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="749.5" y="379" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CynAIN0-DemqZgO2HIYT-30" value="RTC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205.5" y="580" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
