@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T00:43:08.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="4-kevtgIWNvyJVDbYDho" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T08:56:21.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Y0oKs7f6-UAmxn6j_7BF" version="24.2.3" type="github">
   <diagram name="第 1 页" id="3flDMspyzysU2a9ugg71">
-    <mxGraphModel dx="1379" dy="756" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="890" dy="488" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,6 +216,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="YwXC6KfsLL3C1h-GfCdH-216" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.002;entryY=0.225;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="YwXC6KfsLL3C1h-GfCdH-220" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="260" as="sourcePoint" />
+            <mxPoint x="1040" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="112" />
+              <mxPoint x="1120" y="114" />
+              <mxPoint x="1120" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PwdWkrMTdQScq78v1Cg-4" value="粘连监测" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YwXC6KfsLL3C1h-GfCdH-216">
+          <mxGeometry x="-0.3967" y="-1" relative="1" as="geometry">
+            <mxPoint x="109" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YwXC6KfsLL3C1h-GfCdH-217" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.003;entryY=0.081;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="YwXC6KfsLL3C1h-GfCdH-220" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="260" as="sourcePoint" />
@@ -225,6 +241,22 @@
               <mxPoint x="1100" y="220" />
               <mxPoint x="1100" y="520" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YwXC6KfsLL3C1h-GfCdH-218" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.004;entryY=0.365;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="YwXC6KfsLL3C1h-GfCdH-220" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="230" as="sourcePoint" />
+            <mxPoint x="1040" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="99" />
+              <mxPoint x="1140" y="99" />
+              <mxPoint x="1140" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PwdWkrMTdQScq78v1Cg-3" value="总压监测" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YwXC6KfsLL3C1h-GfCdH-218">
+          <mxGeometry x="-0.4035" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YwXC6KfsLL3C1h-GfCdH-219" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
